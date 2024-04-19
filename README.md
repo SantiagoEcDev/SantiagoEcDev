@@ -1,7 +1,6 @@
-# <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/><h1>Santiago Escobar Corredor</h1> 
-
-
 ![Banner de Santiago Escobar](banner-github.png)
+
+<h1 align="center">Santiago Escobar Corredor</h1>
 
 👋 ¡Hola! Soy Santiago, un apasionado desarrollador Frontend con experiencia en la creación de interfaces web dinámicas y atractivas. Mi enfoque se centra en la implementación de diseños elegantes y funcionales utilizando tecnologías como HTML, CSS y JavaScript.
 
@@ -11,7 +10,7 @@
 
 🌟 ¡No dudes en echar un vistazo a mis proyectos y contribuciones! Estoy abierto a colaboraciones y oportunidades que me permitan seguir expandiendo mis habilidades y conocimientos en el mundo del desarrollo Frontend.
 
-## Tecnologias 💻
+## Tecnologías 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -25,6 +24,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## Las estadisticas del repositorio
+## Las estadísticas del repositorio
 ![Santiago Escobar' GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagoecdev&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=condorcoders&layout=compact&theme=dark)
 
