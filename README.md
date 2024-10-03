@@ -2,14 +2,6 @@
 
 <h1 align="center">Santiago Escobar Corredor</h1>
 
-👋 ¡Hola! Soy Santiago, un apasionado desarrollador Frontend con experiencia en la creación de interfaces web dinámicas y atractivas. Mi enfoque se centra en la implementación de diseños elegantes y funcionales utilizando tecnologías como HTML, CSS y JavaScript.
-
-💼 Actualmente, me encuentro explorando las últimas tendencias en desarrollo web, incluyendo frameworks como Astro y Next.js para crear experiencias de usuario modernas. Además, me apasiona la optimización del rendimiento y la accesibilidad web para garantizar que mis aplicaciones sean rápidas y accesibles para todos los usuarios.
-
-🚀 Me encanta colaborar en proyectos emocionantes y aprender nuevas tecnologías. Siempre estoy buscando desafíos que me permitan crecer como desarrollador y contribuir al éxito del equipo.
-
-🌟 ¡No dudes en echar un vistazo a mis proyectos y contribuciones! Estoy abierto a colaboraciones y oportunidades que me permitan seguir expandiendo mis habilidades y conocimientos en el mundo del desarrollo Frontend.
-
 ## Tecnologías 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
