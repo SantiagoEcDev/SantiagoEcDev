@@ -1,148 +1,71 @@
 <div align="center">
 
-```
-███████╗ █████╗ ███╗   ██╗████████╗██╗ █████╗  ██████╗  ██████╗ 
-██╔════╝██╔══██╗████╗  ██║╚══██╔══╝██║██╔══██╗██╔════╝ ██╔═══██╗
-███████╗███████║██╔██╗ ██║   ██║   ██║███████║██║  ███╗██║   ██║
-╚════██║██╔══██║██║╚██╗██║   ██║   ██║██╔══██║██║   ██║██║   ██║
-███████║██║  ██║██║ ╚████║   ██║   ██║██║  ██║╚██████╔╝╚██████╔╝
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ 
-                                                                  
-███████╗███████╗ ██████╗ ██████╗ ██████╗  █████╗ ██████╗        
-██╔════╝██╔════╝██╔════╝██╔═══██╗██╔══██╗██╔══██╗██╔══██╗       
-█████╗  ███████╗██║     ██║   ██║██████╔╝███████║██████╔╝       
-██╔══╝  ╚════██║██║     ██║   ██║██╔══██╗██╔══██║██╔══██╗       
-███████╗███████║╚██████╗╚██████╔╝██████╔╝██║  ██║██║  ██║       
-╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝       
-```
+<img src="./assets/banner.es.svg" alt="Santiago Escobar — Software Engineer · Full Stack" width="100%">
 
-### Full Stack Developer | Clean Architecture Enthusiast | React Specialist
+### Software que escala. Interfaces que se sienten vivas.
 
-
-```ascii
-    ╔══════════════════════════════════════════════════════════╗
-    ║  🚀 Building scalable applications with modern tech      ║
-    ║  💻 Passionate about clean code & software architecture  ║
-    ║  🌍 Based in Bogotá, Colombia                            ║
-    ╚══════════════════════════════════════════════════════════╝
-```
+**[Portafolio](PORTFOLIO_URL)** &nbsp;·&nbsp; [LinkedIn](LINKEDIN_URL) &nbsp;·&nbsp; [Correo](mailto:santiagoescobar.tech@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👋 Hola, soy Santiago
 
-Software Engineer with a proven track record of building scalable web applications and optimizing complex systems. I specialize in modern JavaScript frameworks, clean architecture principles, and end-to-end product development. Currently pursuing a Bachelor's degree in Software Engineering at Politécnico Grancolombiano.
+Soy **Software Engineer Full Stack** y me obsesiona la imagen completa: la interfaz que la gente toca *y* la arquitectura que la sostiene. Me gusta construir productos rápidos, seguros y realmente agradables de usar, con código que el próximo desarrollador agradezca.
 
-```typescript
-const santiago = {
-    location: "Bogotá, Colombia 🇨🇴",
-    languages: ["Spanish (Native)", "English (C1)"],
-    currentFocus: "Full-stack applications with React, Next.js & Supabase",
-    learning: "Advanced system design patterns & cloud architecture",
-    openTo: "Full-stack and frontend development opportunities",
-    funFact: "I love translating complex business logic into clean, maintainable code"
-};
-```
+## ⚡ Lo que construyo
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
+<b>🧠 IA que apoya decisiones</b><br>
+Funcionalidades con OpenAI que convierten datos operativos en recomendaciones accionables.
+</td>
+<td width="50%" valign="top">
+<b>🏗️ Arquitectura que escala</b><br>
+Bases modulares para SaaS y refactorizaciones progresivas que no detienen el producto.
+</td>
+</tr>
+<tr>
+<td valign="top">
+<b>🔐 Seguridad por diseño</b><br>
+Autenticación centralizada y seguridad a nivel de fila: cada usuario ve solo lo que debe.
+</td>
+<td valign="top">
+<b>🔌 Automatización que elimina lo manual</b><br>
+Integraciones y webhooks que sincronizan plataformas y reemplazan procesos manuales.
+</td>
+</tr>
+</table>
 
-## 💻 Tech Stack
+## 🧰 Tecnologías y especialidades
 
-<div align="center">
+<table>
+<tr>
+<td width="34%" valign="top"><b>Frontend</b><br><sub>Interfaces modernas, reutilizables y mantenibles.</sub></td>
+<td valign="top"><img src="https://img.shields.io/badge/Next.js-0E1343?style=flat-square&logo=nextdotjs&logoColor=C0F447" alt="Next.js"> <img src="https://img.shields.io/badge/React-0E1343?style=flat-square&logo=react&logoColor=C0F447" alt="React"> <img src="https://img.shields.io/badge/Angular-0E1343?style=flat-square&logo=angular&logoColor=C0F447" alt="Angular"> <img src="https://img.shields.io/badge/TypeScript-0E1343?style=flat-square&logo=typescript&logoColor=C0F447" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-0E1343?style=flat-square&logo=javascript&logoColor=C0F447" alt="JavaScript"> <img src="https://img.shields.io/badge/Zustand-0E1343?style=flat-square" alt="Zustand"> <img src="https://img.shields.io/badge/DnD_Kit-0E1343?style=flat-square" alt="DnD Kit"></td>
+</tr>
+<tr>
+<td width="34%" valign="top"><b>Backend</b><br><sub>Servicios, API y lógica de negocio.</sub></td>
+<td valign="top"><img src="https://img.shields.io/badge/Node.js-2F5CFA?style=flat-square&logo=nodedotjs&logoColor=FFFFFF" alt="Node.js"> <img src="https://img.shields.io/badge/NestJS-2F5CFA?style=flat-square&logo=nestjs&logoColor=FFFFFF" alt="NestJS"> <img src="https://img.shields.io/badge/Express.js-2F5CFA?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express.js"> <img src="https://img.shields.io/badge/Python-2F5CFA?style=flat-square&logo=python&logoColor=FFFFFF" alt="Python"> <img src="https://img.shields.io/badge/Django-2F5CFA?style=flat-square&logo=django&logoColor=FFFFFF" alt="Django"> <img src="https://img.shields.io/badge/FastAPI-2F5CFA?style=flat-square&logo=fastapi&logoColor=FFFFFF" alt="FastAPI"> <img src="https://img.shields.io/badge/API_REST-2F5CFA?style=flat-square" alt="API REST"> <img src="https://img.shields.io/badge/GraphQL-2F5CFA?style=flat-square&logo=graphql&logoColor=FFFFFF" alt="GraphQL"></td>
+</tr>
+<tr>
+<td width="34%" valign="top"><b>Bases de datos y nube</b><br><sub>Gestión de datos, servicios en la nube y control de acceso.</sub></td>
+<td valign="top"><img src="https://img.shields.io/badge/PostgreSQL-FFA7D9?style=flat-square&logo=postgresql&logoColor=0E1343" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Supabase-FFA7D9?style=flat-square&logo=supabase&logoColor=0E1343" alt="Supabase"> <img src="https://img.shields.io/badge/Supabase_Auth-FFA7D9?style=flat-square&logo=supabase&logoColor=0E1343" alt="Supabase Auth"> <img src="https://img.shields.io/badge/Row_Level_Security_(RLS)-FFA7D9?style=flat-square" alt="Row Level Security (RLS)"> <img src="https://img.shields.io/badge/AWS-FFA7D9?style=flat-square&logo=amazonaws&logoColor=0E1343" alt="AWS"></td>
+</tr>
+<tr>
+<td width="34%" valign="top"><b>IA e integraciones</b><br><sub>Inteligencia artificial y conexión entre plataformas.</sub></td>
+<td valign="top"><img src="https://img.shields.io/badge/API_de_OpenAI-C0F447?style=flat-square&logo=openai&logoColor=0E1343" alt="API de OpenAI"> <img src="https://img.shields.io/badge/LLMs-C0F447?style=flat-square" alt="LLMs"> <img src="https://img.shields.io/badge/API_de_Shopify-C0F447?style=flat-square&logo=shopify&logoColor=0E1343" alt="API de Shopify"> <img src="https://img.shields.io/badge/Webhooks-C0F447?style=flat-square" alt="Webhooks"> <img src="https://img.shields.io/badge/Firebase_Storage-C0F447?style=flat-square&logo=firebase&logoColor=0E1343" alt="Firebase Storage"> <img src="https://img.shields.io/badge/API_de_terceros-C0F447?style=flat-square" alt="API de terceros"></td>
+</tr>
+</table>
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+## 🎯 Cómo construyo
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**Entender primero el problema** → **entregar en incrementos pequeños** → **dejar código fácil de mantener** → **comunicar con claridad**.
 
+## 🎮 Ve a jugar
 
-</div>
+Mi [portafolio](PORTFOLIO_URL).
 
----
-
-## 🏆 Highlights & Achievements
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  ✨ Reduced response times by 25% through optimized patterns    │
-│  🏗️  Applied SOLID principles & Screaming Architecture          │
-│  ⚡ Improved load times by 40% with performance optimizations   │
-│  🔧 Built Chrome extensions & integrated major CRMs             │
-│  📱 Developed web & mobile apps across the React ecosystem      │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-### 🛠️ Technical Expertise
-
-```javascript
-const expertise = {
-    architecture: ["SOLID Principles", "Clean Architecture", "Micro Frontends", "RESTful APIs"],
-    stateManagement: ["Redux Toolkit", "Zustand", "Context API"],
-    databases: ["PostgreSQL", "Firebase Firestore", "Supabase"],
-    cloud: ["AWS EC2", "AWS Cloud9", "Azure"],
-    integrations: ["HubSpot", "Zoho CRM", "Salesforce", "OneDrive API"],
-    methodologies: ["Scrum", "Agile", "Code Reviews", "Pair Programming"]
-};
-```
-
-## 📚 Education
-
-**🎓 Bachelor's Degree in Software Engineering**  
-Politécnico Grancolombiano | 2024 - Present
-
-**🎓 Technology in Software Development**  
-Universitaria Agustiniana | 2023  
-*High Performance Recognition in Web Development*
-
-### 🏅 Certifications
-- CS50: Introduction to Computer Science – Harvard University
-- English Level C1 – EF SET
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════════╗
-║  I'm always interested in collaborating on innovative  ║
-║  projects or discussing new opportunities!             ║
-╚════════════════════════════════════════════════════════╝
-```
-
-**📧 Email:** santiagocorredor51@gmail.com  
-**💼 LinkedIn:** [Santiago Escobar Corredor](https://www.linkedin.com/in/santiagoec-dev-/)  
-**🌐 Portfolio:** [Visit my work](https://santiago-escobar.vercel.app/)
-
-</div>
-
----
-
-<div align="center">
-
-```
-▀█▀ █░█ ▄▀█ █▄░█ █▄▀ █▀   █▀▀ █▀█ █▀█   █░█ █ █▀ █ ▀█▀ █ █▄░█ █▀▀ ░
-░█░ █▀█ █▀█ █░▀█ █░█ ▄█   █▀░ █▄█ █▀▄   ▀▄▀ █ ▄█ █ ░█░ █ █░▀█ █▄█ ▄
-```
-
-⭐️ From [Santiago Escobar Corredor](https://github.com/SantiagoEcDev)
-
-</div>
+<sub>📫 [santiagoescobar.tech@gmail.com](mailto:santiagoescobar.tech@gmail.com)</sub>
