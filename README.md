@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./github_banner.jpeg" alt="Santiago Escobar — Full Stack Developer" width="100%">
+<img src="./github_banner" alt="Santiago Escobar — Full Stack Developer" width="100%">
 
 ### Software que escala. Interfaces que se sienten vivas.
 
