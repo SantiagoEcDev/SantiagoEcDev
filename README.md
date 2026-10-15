@@ -1,10 +1,11 @@
+
 <div align="center">
 
-<img src="./assets/banner.es.svg" alt="Santiago Escobar — Software Engineer · Full Stack" width="100%">
+<img src="./github_banner.jpeg" alt="Santiago Escobar — Full Stack Developer" width="100%">
 
 ### Software que escala. Interfaces que se sienten vivas.
 
-**[Portafolio](PORTFOLIO_URL)** &nbsp;·&nbsp; [LinkedIn](LINKEDIN_URL) &nbsp;·&nbsp; [Correo](mailto:santiagoescobar.tech@gmail.com)
+**[Portafolio][portfolio]** &nbsp;·&nbsp; [LinkedIn][linkedin] &nbsp;·&nbsp; [Correo][email]
 
 </div>
 
@@ -12,7 +13,7 @@
 
 ## 👋 Hola, soy Santiago
 
-Soy **Software Engineer Full Stack** y me obsesiona la imagen completa: la interfaz que la gente toca *y* la arquitectura que la sostiene. Me gusta construir productos rápidos, seguros y realmente agradables de usar, con código que el próximo desarrollador agradezca.
+Soy **Full Stack Developer** y me enfoco en la imagen completa: la interfaz que la gente toca *y* la arquitectura que la sostiene. Desarrollo aplicaciones web, integraciones y funcionalidades orientadas a necesidades reales de negocio, procurando que el código sea claro y fácil de mantener.
 
 ## ⚡ Lo que construyo
 
@@ -24,17 +25,17 @@ Funcionalidades con OpenAI que convierten datos operativos en recomendaciones ac
 </td>
 <td width="50%" valign="top">
 <b>🏗️ Arquitectura que escala</b><br>
-Bases modulares para SaaS y refactorizaciones progresivas que no detienen el producto.
+Bases modulares para aplicaciones web y refactorizaciones progresivas que no detienen el producto.
 </td>
 </tr>
 <tr>
 <td valign="top">
 <b>🔐 Seguridad por diseño</b><br>
-Autenticación centralizada y seguridad a nivel de fila: cada usuario ve solo lo que debe.
+Autenticación y seguridad a nivel de fila: cada usuario accede únicamente a los datos que le corresponden.
 </td>
 <td valign="top">
 <b>🔌 Automatización que elimina lo manual</b><br>
-Integraciones y webhooks que sincronizan plataformas y reemplazan procesos manuales.
+Integraciones y webhooks que sincronizan plataformas y reducen tareas manuales.
 </td>
 </tr>
 </table>
@@ -60,12 +61,8 @@ Integraciones y webhooks que sincronizan plataformas y reemplazan procesos manua
 </tr>
 </table>
 
-## 🎯 Cómo construyo
 
-**Entender primero el problema** → **entregar en incrementos pequeños** → **dejar código fácil de mantener** → **comunicar con claridad**.
-
-## 🎮 Ve a jugar
-
-Mi [portafolio](PORTFOLIO_URL).
-
-<sub>📫 [santiagoescobar.tech@gmail.com](mailto:santiagoescobar.tech@gmail.com)</sub>
+<!-- Enlaces reutilizables -->
+[portfolio]: http://santiago-escobar-corredor.vercel.app/
+[linkedin]: https://www.linkedin.com/in/santiago-escobar-corredor/
+[email]: mailto:santiagoescobar.tech@gmail.com
